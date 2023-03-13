@@ -4,3 +4,5 @@
 3-twofiles: Displays the contents of two files- /etc/passwd and /etc/hosts  
 4-lastlines: Displays the last 10 lines of the /etc/passwd file  
 5-firstlines: Displays the first 10 lines of the /etc/passwd file  
+6-thirdline: Displays the third line of a file; iacta  
+7-file: Creates a file containing a set of particular characters; Best School  
