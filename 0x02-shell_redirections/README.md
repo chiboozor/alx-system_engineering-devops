@@ -21,3 +21,4 @@
 19-AZ: Replaces A and c to z and e  
 20-hiago: Deletes c and C from input  
 21-reverse: A script that reverses its input  
+22-users_and_homes: Displays users and their home dir based on the /etc/passwd file  
