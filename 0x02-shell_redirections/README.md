@@ -20,3 +20,4 @@
 18-letteronly: Displays patter containing letter, uppercase inclusive  
 19-AZ: Replaces A and c to z and e  
 20-hiago: Deletes c and C from input  
+21-reverse: A script that reverses its input  
