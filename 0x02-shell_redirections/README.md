@@ -24,3 +24,4 @@
 22-users_and_homes: Displays users and their home dir based on the /etc/passwd file  
 100-empty_casks: Finds all empty files in the directory and its subdirectories  
 101-gifs: Displays the names of all files with .gif extension  
+102-acrostic: Acrostic  
