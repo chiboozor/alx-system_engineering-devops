@@ -13,3 +13,4 @@
 12-newest_files: Lists the 10 newest files and sort by modification time descending  
 
 13-unique: Prints words that appear exactly once  
+14-findthatword: Finds a pattern in a file  
