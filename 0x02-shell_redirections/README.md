@@ -12,3 +12,4 @@
 11-directories: Counts the subdirectories of the working directory  
 12-newest_files: Lists the 10 newest files and sort by modification time descending  
 
+13-unique: Prints words that appear exactly once  
