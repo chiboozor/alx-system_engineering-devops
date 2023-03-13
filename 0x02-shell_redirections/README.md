@@ -7,3 +7,4 @@
 6-thirdline: Displays the third line of a file; iacta  
 7-file: Creates a file containing a set of particular characters; Best School  
 8-cwd_state: Writes the output of a command into a file  
+9-duplicate_last_line: Duplicates the last line of a file  
