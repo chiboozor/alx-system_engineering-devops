@@ -8,3 +8,4 @@
 7-file: Creates a file containing a set of particular characters; Best School  
 8-cwd_state: Writes the output of a command into a file  
 9-duplicate_last_line: Duplicates the last line of a file  
+10-no_more_js: Deletes all .js files in the current working directory and it's subdirectories  
