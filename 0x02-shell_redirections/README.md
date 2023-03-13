@@ -22,3 +22,4 @@
 20-hiago: Deletes c and C from input  
 21-reverse: A script that reverses its input  
 22-users_and_homes: Displays users and their home dir based on the /etc/passwd file  
+100-empty_casks: Finds all empty files in the directory and its subdirectories  
