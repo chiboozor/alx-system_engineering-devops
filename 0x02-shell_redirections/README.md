@@ -17,3 +17,4 @@
 15-countthatword: Count the number of lines in a pattern  
 16-whatsnext: Prints the next three lines after a pattern in a file  
 17-hidethisword: Print the lines not containing bin  
+18-letteronly: Displays patter containing letter, uppercase inclusive  
