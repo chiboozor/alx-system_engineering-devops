@@ -19,3 +19,4 @@
 17-hidethisword: Print the lines not containing bin  
 18-letteronly: Displays patter containing letter, uppercase inclusive  
 19-AZ: Replaces A and c to z and e  
+20-hiago: Deletes c and C from input  
