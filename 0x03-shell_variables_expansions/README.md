@@ -3,3 +3,4 @@ Shell expansion readme
 1-hello_you: Prints hello   
 3-paths: Counts the number of directories in the PATH  
 4-global_variables: Lists environmental variables  
+5-local_variables: Lists all variables: env, local; and functions  
