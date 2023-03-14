@@ -8,3 +8,4 @@ Shell expansion readme
 7-create_global_variable: Creates a new global variable using the export command  
 8-true_knowledge: Prints the result of sum of two variables: 128 and TRUEKNOWLEDGE  
 9-divide_and_rule: Prints the result of division of two variables: POWER and DIVIDE  
+10-love_exponent_breath: Prints the exponentiation of two variables: BREATH and LOVE  
