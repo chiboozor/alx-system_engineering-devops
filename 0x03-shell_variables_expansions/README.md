@@ -11,3 +11,4 @@ Shell expansion readme
 10-love_exponent_breath: Prints the exponentiation of two variables: BREATH and LOVE  
 11-binary_to_decimal: Converts the number stored in the variable BINARY from base 2 to base 10  
 12-combinations: Prints all possible combos of a..z except oo  
+13-print_float: Prints a number with 2d.p  
