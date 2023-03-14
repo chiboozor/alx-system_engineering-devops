@@ -14,3 +14,4 @@ Shell expansion readme
 13-print_float: Prints a number with 2d.p  
 100-decimal_to_hexadecimal: Converts a number in base 10 stored in the variable DECIMAL to base 16  
 101-rot13: Creates and encrypted file using the rot13 encryption  
+102-odd: Prints every other line from the input  
