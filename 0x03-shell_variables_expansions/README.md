@@ -12,3 +12,4 @@ Shell expansion readme
 11-binary_to_decimal: Converts the number stored in the variable BINARY from base 2 to base 10  
 12-combinations: Prints all possible combos of a..z except oo  
 13-print_float: Prints a number with 2d.p  
+100-decimal_to_hexadecimal: Converts a number in base 10 stored in the variable DECIMAL to base 16  
