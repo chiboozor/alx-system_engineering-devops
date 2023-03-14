@@ -10,3 +10,4 @@ Shell expansion readme
 9-divide_and_rule: Prints the result of division of two variables: POWER and DIVIDE  
 10-love_exponent_breath: Prints the exponentiation of two variables: BREATH and LOVE  
 11-binary_to_decimal: Converts the number stored in the variable BINARY from base 2 to base 10  
+12-combinations: Prints all possible combos of a..z except oo  
