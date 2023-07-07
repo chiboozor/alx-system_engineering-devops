@@ -18,4 +18,6 @@ This README contains scripts that:
 
 7-everybody - adds execution permission for owner, group owner, and other users to the file 'hello'.
 
-8-James_Bond - sets no permission for owner, and group owner, then gives all permission to other users.
+8-James_Bond - sets no permission for owner, and group owner, then gives all permission to other users
+
+9-John_Doe - sets the permission of 'hello' file to -rwxr-x-wx..
