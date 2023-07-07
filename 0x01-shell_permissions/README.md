@@ -14,4 +14,6 @@ This README contains scripts that:
 
 5-execute - adds execute permission to the owner of the file 'hello' and gives group and users read-only permission.
 
-6-multiple_permissions - adds exec permission to owner and group owner, and read-only permission to other users.
+6-multiple_permissions - adds exec permission to owner and group owner, and read-only permission to other users
+
+7-everybody - adds execution permission for owner, group owner, and other users to the file 'hello'..
