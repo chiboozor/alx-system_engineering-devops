@@ -16,4 +16,6 @@ This README contains scripts that:
 
 6-multiple_permissions - adds exec permission to owner and group owner, and read-only permission to other users
 
-7-everybody - adds execution permission for owner, group owner, and other users to the file 'hello'..
+7-everybody - adds execution permission for owner, group owner, and other users to the file 'hello'.
+
+8-James_Bond - sets no permission for owner, and group owner, then gives all permission to other users.
