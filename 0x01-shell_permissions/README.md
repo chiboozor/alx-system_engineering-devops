@@ -24,4 +24,4 @@ This README contains scripts that:
 
 10-mirror_permissions - mirrors the mode of the file 'olleh' for 'hello' file.
 
-
+11-directories_permissions - adds execute permission to all subdirs of the current working dir for the owner, group owner, and other users.
