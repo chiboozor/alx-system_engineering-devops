@@ -30,4 +30,6 @@ This README contains scripts that:
 
 13-change_group - changes the group owner to 'school' for the file 'hello'.
 
+100-change_owner_and_group - changes the owner and group owner to 'vincent' and 'staff' respectively for all files and directories in the working directory.
+
 
