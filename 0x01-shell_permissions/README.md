@@ -28,4 +28,6 @@ This README contains scripts that:
 
 12-directory_permission - creates a dir called 'my_dir' and sets it permission to 751.
 
+13-change_group - changes the group owner to 'school' for the file 'hello'.
+
 
