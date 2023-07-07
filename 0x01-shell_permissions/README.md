@@ -20,4 +20,8 @@ This README contains scripts that:
 
 8-James_Bond - sets no permission for owner, and group owner, then gives all permission to other users
 
-9-John_Doe - sets the permission of 'hello' file to -rwxr-x-wx..
+9-John_Doe - sets the permission of 'hello' file to -rwxr-x-wx.
+
+10-mirror_permissions - mirrors the mode of the file 'olleh' for 'hello' file.
+
+
