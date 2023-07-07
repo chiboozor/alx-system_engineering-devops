@@ -32,4 +32,4 @@ This README contains scripts that:
 
 100-change_owner_and_group - changes the owner and group owner to 'vincent' and 'staff' respectively for all files and directories in the working directory.
 
-
+101-symbolic_link_permission - changes the owner and group owner of a symbolic link '\_hello'. (this change affects the symbolic link itself, and not the file it references).
