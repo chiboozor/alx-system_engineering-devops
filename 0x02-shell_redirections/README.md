@@ -13,4 +13,6 @@ This readme contains scripts for the various tasks that:
 
 5-firstlines - displays the first 10 lines of _/etc/passwd_ file.
 
-.  
+6-third_line - displays the third line of the _iacta_ file.
+
+  
