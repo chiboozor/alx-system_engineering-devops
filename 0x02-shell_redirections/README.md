@@ -7,4 +7,6 @@ This readme contains scripts for the various tasks that:
 
 2-hellofile - displays the content of the _/etc/passwd_ file.
 
+3-twofiles - displays the content of two files; _/etc/passwd_ and _/etc/hosts_.
+
   
