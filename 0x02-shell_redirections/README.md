@@ -9,4 +9,8 @@ This readme contains scripts for the various tasks that:
 
 3-twofiles - displays the content of two files; _/etc/passwd_ and _/etc/hosts_.
 
-4-lastlines - displays the last 10 lines of _/etc/passwd_ file.  
+4-lastlines - displays the last 10 lines of _/etc/passwd_ file
+
+5-firstlines - displays the first 10 lines of _/etc/passwd_ file.
+
+.  
