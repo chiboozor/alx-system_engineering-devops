@@ -19,18 +19,6 @@ This readme contains scripts for the various tasks that:
 
 8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
 
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
-8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
-
 9-duplicate_last_line - duplicates the last line of the "iacta" file.
+
+10-no_more_j - deletes all regular files with .js extension present in the current dir and all its subfolders.s
