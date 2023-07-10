@@ -21,4 +21,8 @@ This readme contains scripts for the various tasks that:
 
 9-duplicate_last_line - duplicates the last line of the "iacta" file.
 
-10-no_more_j - deletes all regular files with .js extension present in the current dir and all its subfolders.s
+10-no_more_j - deletes all regular files with .js extension present in the current dir and all its subfolders.
+
+11-directories - counts the number of directories and sub-directories in the current directory.
+
+
