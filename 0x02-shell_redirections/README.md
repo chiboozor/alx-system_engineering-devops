@@ -15,4 +15,22 @@ This readme contains scripts for the various tasks that:
 
 6-third_line - displays the third line of the _iacta_ file.
 
-  
+7-file - creates a file named _\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)_.
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+8-cwd_state - that writes the output of a command "ls -la" into a file "ls_cwd_content".
+
+
