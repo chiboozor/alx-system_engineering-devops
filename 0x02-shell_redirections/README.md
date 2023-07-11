@@ -35,4 +35,6 @@ This readme contains scripts for the various tasks that:
 
 16-whatsnext - detects 'root' in the /etc/passwd file and displays it followed by 3 lines after it.
 
+17-hidethisword - displays all lines without 'bin' in the /etc/passwd.
+
 
