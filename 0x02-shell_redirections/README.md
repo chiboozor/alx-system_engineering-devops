@@ -37,4 +37,6 @@ This readme contains scripts for the various tasks that:
 
 17-hidethisword - displays all lines without 'bin' in the /etc/passwd.
 
+18-letteronly - displays all lines in the /etc/ssh/sshd_config file starting with a letter.
+
 
