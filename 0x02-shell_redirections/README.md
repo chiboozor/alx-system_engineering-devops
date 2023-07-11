@@ -41,4 +41,6 @@ This readme contains scripts for the various tasks that:
 
 19-AZ - character replacement using 'tr'.
 
+20-hiago - delete specific characters 'c' and 'C' from input  using 'tr'.
+
 
