@@ -43,4 +43,4 @@ This readme contains scripts for the various tasks that:
 
 20-hiago - delete specific characters 'c' and 'C' from input  using 'tr'.
 
-
+21-reverse - prints the contents of an input in reverse.
