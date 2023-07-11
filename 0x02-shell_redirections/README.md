@@ -33,4 +33,6 @@ This readme contains scripts for the various tasks that:
 
 15-countthatword - counts the number of lines containing the patter "bin" in the file /etc/passwd.
 
+16-whatsnext - detects 'root' in the /etc/passwd file and displays it followed by 3 lines after it.
+
 
