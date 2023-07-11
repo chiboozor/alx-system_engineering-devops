@@ -39,4 +39,6 @@ This readme contains scripts for the various tasks that:
 
 18-letteronly - displays all lines in the /etc/ssh/sshd_config file starting with a letter.
 
+19-AZ - character replacement using 'tr'.
+
 
