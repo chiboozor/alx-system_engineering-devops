@@ -13,3 +13,4 @@ This README file contains more info about the scripts in the Shell Expansions pr
 7-create_global_variable - creates a new global variable.
 8-true_knowledge - prints the sum of 128 and the value stored in the env variable named TRUEKNOWLEDGE.
 9-divide_and_rule - prints the result of the values stored in the env variables POWER divided by DIVIDE respectively.
+10-love_exponent_breath - displays the result of the values stored in the env variables BREATH raised to the power of LOVE.
