@@ -9,3 +9,4 @@ This README file contains more info about the scripts in the Shell Expansions pr
 3-paths - counts the number of directories in the PATH.
 4-global_variables - lists environment variables.
 5-local_variables - lists all local and enviroment variables, and functions.
+6-create_local_variable - creates a local variable BEST with value 'School'.
