@@ -14,3 +14,4 @@ This README file contains more info about the scripts in the Shell Expansions pr
 8-true_knowledge - prints the sum of 128 and the value stored in the env variable named TRUEKNOWLEDGE.
 9-divide_and_rule - prints the result of the values stored in the env variables POWER divided by DIVIDE respectively.
 10-love_exponent_breath - displays the result of the values stored in the env variables BREATH raised to the power of LOVE.
+11-binary_to_decimal - converts a number in base 2 to base 10. The number is stored in the env variable BINARY.
