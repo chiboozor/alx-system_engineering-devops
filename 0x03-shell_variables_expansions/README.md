@@ -16,3 +16,4 @@ This README file contains more info about the scripts in the Shell Expansions pr
 10-love_exponent_breath - displays the result of the values stored in the env variables BREATH raised to the power of LOVE.
 11-binary_to_decimal - converts a number in base 2 to base 10. The number is stored in the env variable BINARY.
 12-combinations - prints all possible combo of two letters except 'oo'.
+13-print_float - prints a number with two decimal places. The number will be stored in the env variable NUM.
