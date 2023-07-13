@@ -17,3 +17,4 @@ This README file contains more info about the scripts in the Shell Expansions pr
 11-binary_to_decimal - converts a number in base 2 to base 10. The number is stored in the env variable BINARY.
 12-combinations - prints all possible combo of two letters except 'oo'.
 13-print_float - prints a number with two decimal places. The number will be stored in the env variable NUM.
+100-decimal_to_hexadecimal - converts a decimal number to base 16. The decimal is stored in the env variable DECIMAL.
